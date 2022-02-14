@@ -6,12 +6,7 @@ Thanks to bootstrap.
 
 ## Link
 
-You can click over the website or copy the link below.
-
-[Website](http://ebinalex.ml/)
-
-http://ebinalex.ml/
-
+You can click over the website or copy the link on the Right side 👉
 
 
 # Feedback
